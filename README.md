@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=1000&color=64DDA0&center=true&vCenter=true&repeat=false&width=650&height=60&lines=SHAMBHAVI+JHA" alt="Shambhavi Jha"/>
@@ -241,4 +240,4 @@ I'm committed to continuous learning, thoughtful experimentation, clear document
 *Building practical solutions through data, experimentation, and intelligent systems.*
 
 </div>
-```
+
