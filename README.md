@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=1000&color=64DDA0&center=true&vCenter=true&repeat=false&width=650&height=60&lines=SHAMBHAVI+JHA" alt="Shambhavi Jha"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=1000&color=64DDA0&center=true&vCenter=true&repeat=false&width=650&height=60&lines=SHAMBHAVI+JHA" alt="Shambhavi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=64DDA0&center=true&vCenter=true&width=800&height=40&lines=AI%2FML+%7C+Data+Science+%7C+Applied+AI;Building+Data-Driven+Applications;Exploring+Machine+Learning+and+Explainable+AI;Turning+Data+Into+Meaningful+Insights" alt="Animated professional introduction"/>
 
