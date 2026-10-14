@@ -26,7 +26,7 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=64DDA0&width=350&height=35&lines=About+Me" alt="About Me"/>
 
-I'm Shambhavi Jha, a student at **Birla Institute of Technology, Mesra**, with a strong interest in machine learning, data science, and applied artificial intelligence.
+I'm Shambhavi , a student at **Birla Institute of Technology, Mesra**, with a strong interest in machine learning, data science, and applied artificial intelligence.
 
 I enjoy exploring how data can reveal meaningful patterns, how machine learning models make predictions, and how intelligent systems can help solve practical problems. My work spans predictive modeling, recommendation systems, customer analytics, and explainable AI, combining analytical thinking with hands-on application development.
 
